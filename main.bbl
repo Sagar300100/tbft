@@ -1,0 +1,138 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ben~Allal et~al.(2025)Ben~Allal, Lozhkov, et~al.]{allal2025smollm2}
+Loubna Ben~Allal, Anton Lozhkov, et~al.
+\newblock {SmolLM2}: When smol goes big -- data-centric training of a small
+  language model.
+\newblock \emph{arXiv preprint arXiv:2502.02737}, 2025.
+
+\bibitem[Biderman et~al.(2023)Biderman, Schoelkopf, Anthony, Bradley, O'Brien,
+  Hallahan, Khan, Purohit, Prashanth, Raff, Skowron, Sutawika, and van~der
+  Wal]{biderman2023pythia}
+Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle
+  O'Brien, Eric Hallahan, Mohammad~Aflah Khan, Shivanshu Purohit, USVSN~Sai
+  Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, and Oskar van~der
+  Wal.
+\newblock Pythia: A suite for analyzing large language models across training
+  and scaling.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, 2023.
+
+\bibitem[Bolukbasi et~al.(2021)Bolukbasi, Pearce, Yuan, Coenen, Reif,
+  Vi{\'e}gas, and Wattenberg]{bolukbasi2021illusion}
+Tolga Bolukbasi, Adam Pearce, Ann Yuan, Andy Coenen, Emily Reif, Fernanda
+  Vi{\'e}gas, and Martin Wattenberg.
+\newblock An interpretability illusion for {BERT}.
+\newblock \emph{arXiv preprint arXiv:2104.07143}, 2021.
+
+\bibitem[Brown et~al.(2020)Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal,
+  et~al.]{brown2020gpt3}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, et~al.
+\newblock Language models are few-shot learners.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2020.
+
+\bibitem[Dettmers et~al.(2023)Dettmers, Pagnoni, Holtzman, and
+  Zettlemoyer]{qlora}
+Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, and Luke Zettlemoyer.
+\newblock {QLoRA}: Efficient finetuning of quantized {LLMs}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2023.
+
+\bibitem[Fan et~al.(2024)Fan, Pagliardini, and Jaggi]{doge}
+Simin Fan, Matteo Pagliardini, and Martin Jaggi.
+\newblock {DoGE}: Domain reweighting with generalization estimation.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, volume 235 of \emph{Proceedings of Machine Learning Research},
+  pages 12895--12915, 2024.
+
+\bibitem[Ge et~al.(2024)Ge, Ma, Chen, Li, and Ding]{bimix}
+Ce~Ge, Zhijian Ma, Daoyuan Chen, Yaliang Li, and Bolin Ding.
+\newblock {BiMix}: A bivariate data mixing law for language model pretraining.
+\newblock \emph{arXiv preprint arXiv:2405.14908}, 2024.
+
+\bibitem[Groeneveld et~al.(2024)Groeneveld, Beltagy,
+  et~al.]{groeneveld2024olmo}
+Dirk Groeneveld, Iz~Beltagy, et~al.
+\newblock {OLMo}: Accelerating the science of language models.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 15789--15809,
+  2024.
+
+\bibitem[Gururangan et~al.(2020)Gururangan, Marasovi{\'c}, Swayamdipta, Lo,
+  Beltagy, Downey, and Smith]{gururangan2020dont}
+Suchin Gururangan, Ana Marasovi{\'c}, Swabha Swayamdipta, Kyle Lo, Iz~Beltagy,
+  Doug Downey, and Noah~A. Smith.
+\newblock Don't stop pretraining: Adapt language models to domains and tasks.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics}, 2020.
+
+\bibitem[Hoffmann et~al.(2022)Hoffmann, Borgeaud, Mensch, Buchatskaya, Cai,
+  Rutherford, de~Las~Casas, Hendricks, Welbl, Clark,
+  et~al.]{hoffmann2022chinchilla}
+Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor
+  Cai, Eliza Rutherford, Diego de~Las~Casas, Lisa~Anne Hendricks, Johannes
+  Welbl, Aidan Clark, et~al.
+\newblock Training compute-optimal large language models.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2022.
+
+\bibitem[Hu et~al.(2022)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, and
+  Chen]{lora}
+Edward~J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean
+  Wang, Lu~Wang, and Weizhu Chen.
+\newblock {LoRA}: Low-rank adaptation of large language models.
+\newblock In \emph{International Conference on Learning Representations}, 2022.
+
+\bibitem[Liu et~al.(2025)Liu, Zheng, Muennighoff, Zeng, Dou, Pang, Jiang, and
+  Lin]{regmix}
+Qian Liu, Xiaosen Zheng, Niklas Muennighoff, Guangtao Zeng, Longxu Dou, Tianyu
+  Pang, Jing Jiang, and Min Lin.
+\newblock {RegMix}: Data mixture as regression for language model pre-training.
+\newblock In \emph{International Conference on Learning Representations}, 2025.
+
+\bibitem[Penedo et~al.(2024)Penedo, Kydl{\'i}{\v{c}}ek, Ben~Allal, Lozhkov,
+  Mitchell, Raffel, Von~Werra, and Wolf]{penedo2024fineweb}
+Guilherme Penedo, Hynek Kydl{\'i}{\v{c}}ek, Loubna Ben~Allal, Anton Lozhkov,
+  Margaret Mitchell, Colin Raffel, Leandro Von~Werra, and Thomas Wolf.
+\newblock The {FineWeb} datasets: Decanting the web for the finest text data at
+  scale.
+\newblock In \emph{Advances in Neural Information Processing Systems, Datasets
+  and Benchmarks Track}, 2024.
+
+\bibitem[{Qwen Team}(2024)]{qwen25}
+{Qwen Team}.
+\newblock Qwen2.5 technical report.
+\newblock \emph{arXiv preprint arXiv:2412.15115}, 2024.
+
+\bibitem[Radford et~al.(2019)Radford, Wu, Child, Luan, Amodei, and
+  Sutskever]{radford2019language}
+Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya
+  Sutskever.
+\newblock Language models are unsupervised multitask learners.
+\newblock Technical report, OpenAI, 2019.
+
+\bibitem[Soldaini et~al.(2024)Soldaini, Kinney, et~al.]{soldaini2024dolma}
+Luca Soldaini, Rodney Kinney, et~al.
+\newblock Dolma: an open corpus of three trillion tokens for language model
+  pretraining research.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, 2024.
+
+\bibitem[Xie et~al.(2023)Xie, Pham, Dong, Du, Liu, Lu, Liang, Le, Ma, and
+  Yu]{doremi}
+Sang~Michael Xie, Hieu Pham, Xuanyi Dong, Nan Du, Hanxiao Liu, Yifeng Lu, Percy
+  Liang, Quoc~V. Le, Tengyu Ma, and Adams~Wei Yu.
+\newblock {DoReMi}: Optimizing data mixtures speeds up language model
+  pretraining.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2023.
+
+\bibitem[Zhang et~al.(2024)Zhang, Zeng, Wang, and Lu]{zhang2024tinyllama}
+Peiyuan Zhang, Guangtao Zeng, Tianduo Wang, and Wei Lu.
+\newblock {TinyLlama}: An open-source small language model.
+\newblock \emph{arXiv preprint arXiv:2401.02385}, 2024.
+
+\end{thebibliography}
